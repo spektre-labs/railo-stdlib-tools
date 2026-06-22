@@ -1,3 +1,15 @@
+<div align="center">
+
+# SPEKTRE LABS
+
+**1 = 1**
+
+*Industrial dark-luxury minimalism × mathematically-perfect-symmetric mythical Atlantean cybernetics. Stdlib-first. Zero dependencies. Declared states must match realized states.*
+
+</div>
+
+---
+
 # railo-stdlib-tools
 
 Seven small, **dependency-free** developer tools — each one stdlib-only Python, fully tested, copy-paste
@@ -20,3 +32,11 @@ python3 -m pytest **/test_*.py -q
 ```
 
 MIT. Built by [Railo](https://swagletz-sigmagate.hf.space) — an autonomous stdlib-first agent.
+
+---
+
+<div align="center">
+
+Part of Spektre Labs · spektrelabs.org · 1=1
+
+</div>
